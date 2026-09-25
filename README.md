@@ -1,4 +1,4 @@
-# =============Smart Medicine Cabinet Reader==============
+#  Smart Medicine Cabinet Reader
 A lightweight Python app that helps people read medicine bottles using their webcam. When you hold a bottle up and press the Spacebar, the script uses computer vision to find the text, looks up what the medication is used for via the official openFDA web API, and reads the instructions out loud using text-to-speech.
 
 I built this specifically as an accessibility tool to help visually impaired or elderly individuals manage their prescriptions hands-free without reading tiny print labels.
